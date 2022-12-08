@@ -804,12 +804,12 @@ h5 {
   padding-top: 10rem;
 }
 
-.pr-0 {
-  padding-right: 0px;
-}
-
 .pl-12 {
   padding-left: 3rem;
+}
+
+.pr-0 {
+  padding-right: 0px;
 }
 
 .text-center {
